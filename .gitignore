@@ -5,3 +5,5 @@ __pycache__/
 data/*.csv
 data/*.xlsx
 .ipynb_checkpoints/
+*.html
+notebook/*.html
